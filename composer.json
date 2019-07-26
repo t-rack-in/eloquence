@@ -1,5 +1,5 @@
 {
-    "name": "sofa/eloquence",
+    "name": "ogestor/eloquence",
     "description": "Flexible Searchable, Mappable, Metable, Validation and more extensions for Laravel Eloquent ORM.",
     "license": "MIT",
     "support": {
@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "sofa/eloquence-base": "^5.5",
+        "ogestor/eloquence-base": "^5.5",
         "sofa/eloquence-metable": "^5.5",
         "sofa/eloquence-mutable": "^5.5",
         "sofa/eloquence-mappable": "^5.5",
