@@ -25,10 +25,10 @@
     "require": {
         "php": ">=7.0.0",
         "ogestor/eloquence-base": "dev-master",
-        "sofa/eloquence-metable": "^5.5",
-        "sofa/eloquence-mutable": "^5.5",
-        "sofa/eloquence-mappable": "^5.5",
-        "sofa/eloquence-validable": "^5.5"
+        "ogestor/eloquence-metable": "dev-master",
+        "ogestor/eloquence-mutable": "dev-master",
+        "ogestor/eloquence-mappable": "dev-master",
+        "ogestor/eloquence-validable": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.5.0",
