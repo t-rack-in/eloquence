@@ -19,10 +19,10 @@ By installing this package you get aforementioned extensions. Alternatively you 
 
 ```bash
 # get all extensions
-composer require sofa/eloquence 
+composer require t-rack-in/eloquence 
 
 # get single extension, eg. Metable
-composer require sofa/eloquence-metable
+composer require t-rack-in/eloquence-metable
 ```
 
 **Check the [documentation](https://github.com/jarektkaczyk/eloquence/wiki) for installation and usage info, [website](http://softonsofa.com/tag/eloquence/) for examples and [API reference](http://jarektkaczyk.github.io/eloquence-api)**
