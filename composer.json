@@ -24,11 +24,11 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "ceopag/eloquence-base": "dev-master",
-        "ceopag/eloquence-metable": "dev-master",
-        "ceopag/eloquence-mutable": "dev-master",
-        "ceopag/eloquence-mappable": "dev-master",
-        "ceopag/eloquence-validable": "dev-master"
+        "t-rack-in/eloquence-base": "dev-master",
+        "t-rack-in/eloquence-metable": "dev-master",
+        "t-rack-in/eloquence-mutable": "dev-master",
+        "t-rack-in/eloquence-mappable": "dev-master",
+        "t-rack-in/eloquence-validable": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.5.0",
